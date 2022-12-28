@@ -1,1 +1,2 @@
-# web
+# web 
+git rm Tugas praktikkum
